@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SQH",
-    "currentPage": "index.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -54,7 +54,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "gdpr": false,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "cookiesAlert": false
   },
   "pages": {
@@ -4444,7 +4444,7 @@
         }
       ]
     },
-    "index.html": {
+    "Home.html": {
       "settings": {
         "main": true,
         "title": "Home",
